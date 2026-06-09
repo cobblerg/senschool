@@ -99,7 +99,8 @@ function App() {
             센스쿨 링크: <a href="https://senedu.kr" target="_blank" rel="noopener noreferrer" style={{ color: '#0066cc', textDecoration: 'underline' }}><strong>senedu.kr</strong></a><br/>
             비밀번호: <strong>snumskr123</strong><br/>
             <div className="alert-message">
-              ⚠️ 로그인 후 <strong>snumskr123!</strong> 로<br/> 비밀번호를 꼭 변경해주세요!
+              ⚠️ 로그인 후 '비빌번호 변경' 메시지창에서 [확인]을 클릭한 후 snu.ms.kr 계정과 동일한 비밀번호로 변경해 주세요.<br/>
+              단, 비밀번호가 10자리가 안되는 경우 비밀번호 끝에 ! 또는 !!를 붙여서 10자리를 만들어야 합니다.
             </div>
           </div>
         </div>
